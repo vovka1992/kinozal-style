@@ -12,6 +12,7 @@
 
 ## Если есть пожелания или проблемы, пишите в коментариях!
 
+<img alt="Картинка" src="https://github.com/vovka1992/kinozal-style/blob/main/style_settings.jpg">
 <img alt="Картинка" src="https://github.com/vovka1992/kinozal-style/blob/main/style1.jpg">
 <img alt="Картинка" src="https://github.com/vovka1992/kinozal-style/blob/main/style2.JPG">
 <img alt="Картинка" src="https://github.com/vovka1992/kinozal-style/blob/main/style3.JPG">
