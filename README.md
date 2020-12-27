@@ -6,7 +6,6 @@
 
 ## Другие скрипты
 1. [Кнопки скачивания внутри раздачи для Кинозала (**github.com**)](https://github.com/vovka1992/kinozal-knopki-v-nutri)
-1. [Кнопки скачивания в поисковой системе / раздачи персоны для Кинозала (**github.com**)](https://github.com/vovka1992/kinozal-knopki-v-poiske)
 1. [Разные стили для Кинозала (**github.com**)](https://github.com/vovka1992/kinozal-style)
 1. [Другие мои скрипты можете найти на платформе (**greasyfork.org**)](https://greasyfork.org/ru/users/173690)
 
